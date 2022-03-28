@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `learning objectives`
 
 + Improve React skills
-+ Get familiar with Google Maps Directions API
++ Get familiar with Google Directions API
 
 ## Available Scripts
 
