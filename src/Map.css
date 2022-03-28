@@ -1,0 +1,28 @@
+form {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    z-index: 10;
+    background-color: rgb(91, 139, 91);
+    padding: 1em;
+    border-radius: 10px;
+}
+
+input {
+    margin: 0.25em;
+    border-radius: 8px;
+}
+
+button {
+    margin-top: 0.25em;
+    width: 50%;
+    border-radius: 8px;
+}
+
+form > p {
+    background-color: white;
+    border-radius: 8px;
+    padding: 0.5em
+}
